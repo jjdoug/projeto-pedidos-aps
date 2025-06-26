@@ -1,0 +1,32 @@
+﻿# Build results
+bin/
+obj/
+*.exe
+*.dll
+
+# VS Code
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
+
+# Visual Studio
+*.cache
+*.log
+*.pdb
+*.userprefs
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
+packages/
+
+# Project lock files
+project.lock.json
