@@ -5,13 +5,13 @@ using System.Text;
 using System.Threading.Tasks;
 using ProjetoPedidos.Models;
 
-namespace ProjetoPedidos.Services
+namespace ProjetoPedidos.Notificacoes
 {
-    public class NotificadorWhatsApp
+    public class NotificacaoWhatsApp : INotificacao
     {
         public void Enviar(Cliente cliente)
         {
-            Console.WriteLine($"Enviando WhatsApp para {cliente.Telefone}: Seu pedido foi confirmado!");
+            Console.WriteLine($"Enviando e-mail para {cliente.Telefone}...");
         }
     }
 }

@@ -3,43 +3,47 @@
   "WorkspaceRootPath": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|c:\\users\\doug\\source\\repos\\projetopedidos\\projetopedidos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\projetopedidos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|solutionrelative:projetopedidos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|c:\\users\\doug\\source\\repos\\projetopedidos\\projetopedidos\\utils\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|c:\\users\\doug\\source\\repos\\projetopedidos\\projetopedidos\\notificacoes\\notificacaofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|solutionrelative:projetopedidos\\notificacoes\\notificacaofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|c:\\users\\doug\\source\\repos\\projetopedidos\\projetopedidos\\notificacoes\\notificacaoemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|solutionrelative:projetopedidos\\notificacoes\\notificacaoemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|c:\\users\\doug\\source\\repos\\projetopedidos\\projetopedidos\\notificacoes\\inotificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|solutionrelative:projetopedidos\\notificacoes\\inotificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\projetopedidos\\utils\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|solutionrelative:projetopedidos\\utils\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|c:\\users\\doug\\source\\repos\\projetopedidos\\projetopedidos\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|solutionrelative:projetopedidos\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|c:\\users\\doug\\source\\repos\\projetopedidos\\projetopedidos\\notificacoes\\notificacaowhatsapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|solutionrelative:projetopedidos\\notificacoes\\notificacaowhatsapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|c:\\users\\doug\\source\\repos\\projetopedidos\\projetopedidos\\relatorios\\relatoriojson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|solutionrelative:projetopedidos\\relatorios\\relatoriojson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|c:\\users\\doug\\source\\repos\\projetopedidos\\projetopedidos\\relatorios\\relatoriotexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|solutionrelative:projetopedidos\\relatorios\\relatoriotexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|c:\\users\\doug\\source\\repos\\projetopedidos\\projetopedidos\\services\\notificadorwhatsapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\projetopedidos\\services\\notificadorwhatsapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|solutionrelative:projetopedidos\\services\\notificadorwhatsapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|c:\\users\\doug\\source\\repos\\projetopedidos\\projetopedidos\\services\\notificadorsms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|c:\\users\\doug\\source\\repos\\projetopedidos\\projetopedidos\\notificacoes\\notificacaosms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|solutionrelative:projetopedidos\\notificacoes\\notificacaosms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\projetopedidos\\services\\notificadorsms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|solutionrelative:projetopedidos\\services\\notificadorsms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|c:\\users\\doug\\source\\repos\\projetopedidos\\projetopedidos\\services\\fretecalculadoradistancia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|solutionrelative:projetopedidos\\services\\fretecalculadoradistancia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|c:\\users\\doug\\source\\repos\\projetopedidos\\projetopedidos\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|solutionrelative:projetopedidos\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|c:\\users\\doug\\source\\repos\\projetopedidos\\projetopedidos\\services\\fretecalculadorapeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|solutionrelative:projetopedidos\\services\\fretecalculadorapeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|c:\\users\\doug\\source\\repos\\projetopedidos\\projetopedidos\\services\\notificadoremail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\projetopedidos\\services\\notificadoremail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|solutionrelative:projetopedidos\\services\\notificadoremail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -47,12 +51,36 @@
       "RelativeMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|solutionrelative:projetopedidos\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|c:\\users\\doug\\source\\repos\\projetopedidos\\projetopedidos\\models\\itempedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\projetopedidos\\models\\itempedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|solutionrelative:projetopedidos\\models\\itempedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|c:\\users\\doug\\source\\repos\\projetopedidos\\projetopedidos\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\projetopedidos\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|solutionrelative:projetopedidos\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\projetopedidos\\services\\fretecalculadorapeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|solutionrelative:projetopedidos\\services\\fretecalculadorapeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\projetopedidos\\services\\fretecalculadoradistancia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|solutionrelative:projetopedidos\\services\\fretecalculadoradistancia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\projetopedidos\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|solutionrelative:projetopedidos\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\projetopedidos\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|solutionrelative:projetopedidos\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\projetopedidos\\relatorios\\relatoriojson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|solutionrelative:projetopedidos\\relatorios\\relatoriojson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\projetopedidos\\relatorios\\relatoriotexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|solutionrelative:projetopedidos\\relatorios\\relatoriotexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,33 +98,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RelatorioTexto.cs",
-              "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Relatorios\\RelatorioTexto.cs",
-              "RelativeDocumentMoniker": "ProjetoPedidos\\Relatorios\\RelatorioTexto.cs",
-              "ToolTip": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Relatorios\\RelatorioTexto.cs",
-              "RelativeToolTip": "ProjetoPedidos\\Relatorios\\RelatorioTexto.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoPedidos\\Program.cs",
+              "ToolTip": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Program.cs",
+              "RelativeToolTip": "ProjetoPedidos\\Program.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAkwKoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T23:41:54.329Z",
+              "WhenOpened": "2025-06-25T21:56:47.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotificacaoFactory.cs",
+              "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Notificacoes\\NotificacaoFactory.cs",
+              "RelativeDocumentMoniker": "ProjetoPedidos\\Notificacoes\\NotificacaoFactory.cs",
+              "ToolTip": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Notificacoes\\NotificacaoFactory.cs",
+              "RelativeToolTip": "ProjetoPedidos\\Notificacoes\\NotificacaoFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T00:11:46.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "INotificacao.cs",
+              "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Notificacoes\\INotificacao.cs",
+              "RelativeDocumentMoniker": "ProjetoPedidos\\Notificacoes\\INotificacao.cs",
+              "ToolTip": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Notificacoes\\INotificacao.cs",
+              "RelativeToolTip": "ProjetoPedidos\\Notificacoes\\INotificacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T22:57:41.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Entrada.cs",
+              "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Utils\\Entrada.cs",
+              "RelativeDocumentMoniker": "ProjetoPedidos\\Utils\\Entrada.cs",
+              "ToolTip": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Utils\\Entrada.cs",
+              "RelativeToolTip": "ProjetoPedidos\\Utils\\Entrada.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T23:37:19.581Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "NotificadorWhatsapp.cs",
-              "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Services\\NotificadorWhatsapp.cs",
-              "RelativeDocumentMoniker": "ProjetoPedidos\\Services\\NotificadorWhatsapp.cs",
-              "ToolTip": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Services\\NotificadorWhatsapp.cs",
-              "RelativeToolTip": "ProjetoPedidos\\Services\\NotificadorWhatsapp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Title": "NotificacaoWhatsapp.cs",
+              "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Notificacoes\\NotificacaoWhatsapp.cs",
+              "RelativeDocumentMoniker": "ProjetoPedidos\\Notificacoes\\NotificacaoWhatsapp.cs",
+              "ToolTip": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Notificacoes\\NotificacaoWhatsapp.cs",
+              "RelativeToolTip": "ProjetoPedidos\\Notificacoes\\NotificacaoWhatsapp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T23:41:24.92Z",
+              "WhenOpened": "2025-07-25T22:58:20.565Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "NotificadorSMS.cs",
               "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Services\\NotificadorSMS.cs",
               "RelativeDocumentMoniker": "ProjetoPedidos\\Services\\NotificadorSMS.cs",
@@ -109,85 +176,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FreteCalculadoraDistancia.cs",
-              "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Services\\FreteCalculadoraDistancia.cs",
-              "RelativeDocumentMoniker": "ProjetoPedidos\\Services\\FreteCalculadoraDistancia.cs",
-              "ToolTip": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Services\\FreteCalculadoraDistancia.cs",
-              "RelativeToolTip": "ProjetoPedidos\\Services\\FreteCalculadoraDistancia.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T23:39:48.774Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Entrada.cs",
-              "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Utils\\Entrada.cs",
-              "RelativeDocumentMoniker": "ProjetoPedidos\\Utils\\Entrada.cs",
-              "ToolTip": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Utils\\Entrada.cs",
-              "RelativeToolTip": "ProjetoPedidos\\Utils\\Entrada.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAgwBAAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T23:37:19.581Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Program.cs",
-              "RelativeDocumentMoniker": "ProjetoPedidos\\Program.cs",
-              "ToolTip": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Program.cs",
-              "RelativeToolTip": "ProjetoPedidos\\Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAADgvzkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T21:56:47.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RelatorioJSON.cs",
-              "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Relatorios\\RelatorioJSON.cs",
-              "RelativeDocumentMoniker": "ProjetoPedidos\\Relatorios\\RelatorioJSON.cs",
-              "ToolTip": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Relatorios\\RelatorioJSON.cs",
-              "RelativeToolTip": "ProjetoPedidos\\Relatorios\\RelatorioJSON.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAqwCMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T23:42:21.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Pedido.cs",
-              "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Models\\Pedido.cs",
-              "RelativeDocumentMoniker": "ProjetoPedidos\\Models\\Pedido.cs",
-              "ToolTip": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Models\\Pedido.cs",
-              "RelativeToolTip": "ProjetoPedidos\\Models\\Pedido.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Title": "NotificacaoEmail.cs",
+              "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Notificacoes\\NotificacaoEmail.cs",
+              "RelativeDocumentMoniker": "ProjetoPedidos\\Notificacoes\\NotificacaoEmail.cs",
+              "ToolTip": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Notificacoes\\NotificacaoEmail.cs",
+              "RelativeToolTip": "ProjetoPedidos\\Notificacoes\\NotificacaoEmail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T23:36:40.214Z",
+              "WhenOpened": "2025-07-25T22:57:52.626Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FreteCalculadoraPeso.cs",
-              "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Services\\FreteCalculadoraPeso.cs",
-              "RelativeDocumentMoniker": "ProjetoPedidos\\Services\\FreteCalculadoraPeso.cs",
-              "ToolTip": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Services\\FreteCalculadoraPeso.cs",
-              "RelativeToolTip": "ProjetoPedidos\\Services\\FreteCalculadoraPeso.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "NotificadorWhatsapp.cs",
+              "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Services\\NotificadorWhatsapp.cs",
+              "RelativeDocumentMoniker": "ProjetoPedidos\\Services\\NotificadorWhatsapp.cs",
+              "ToolTip": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Services\\NotificadorWhatsapp.cs",
+              "RelativeToolTip": "ProjetoPedidos\\Services\\NotificadorWhatsapp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T23:39:06.669Z",
+              "WhenOpened": "2025-06-25T23:41:24.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotificacaoSMS.cs",
+              "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Notificacoes\\NotificacaoSMS.cs",
+              "RelativeDocumentMoniker": "ProjetoPedidos\\Notificacoes\\NotificacaoSMS.cs",
+              "ToolTip": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Notificacoes\\NotificacaoSMS.cs",
+              "RelativeToolTip": "ProjetoPedidos\\Notificacoes\\NotificacaoSMS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T22:58:05.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\App.config",
+              "RelativeDocumentMoniker": "ProjetoPedidos\\App.config",
+              "ToolTip": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\App.config",
+              "RelativeToolTip": "ProjetoPedidos\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-26T01:16:28.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "NotificadorEmail.cs",
               "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Services\\NotificadorEmail.cs",
               "RelativeDocumentMoniker": "ProjetoPedidos\\Services\\NotificadorEmail.cs",
@@ -200,20 +241,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ItemPedido.cs",
               "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Models\\ItemPedido.cs",
               "RelativeDocumentMoniker": "ProjetoPedidos\\Models\\ItemPedido.cs",
               "ToolTip": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Models\\ItemPedido.cs",
               "RelativeToolTip": "ProjetoPedidos\\Models\\ItemPedido.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T23:36:08.485Z",
+              "WhenOpened": "2025-06-25T23:36:08.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "ProjetoPedidos\\Models\\Pedido.cs",
+              "ToolTip": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Models\\Pedido.cs",
+              "RelativeToolTip": "ProjetoPedidos\\Models\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T23:36:40.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "ProjetoPedidos\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Models\\Cliente.cs",
+              "RelativeToolTip": "ProjetoPedidos\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T22:01:19.54Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
+              "Title": "FreteCalculadoraPeso.cs",
+              "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Services\\FreteCalculadoraPeso.cs",
+              "RelativeDocumentMoniker": "ProjetoPedidos\\Services\\FreteCalculadoraPeso.cs",
+              "ToolTip": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Services\\FreteCalculadoraPeso.cs",
+              "RelativeToolTip": "ProjetoPedidos\\Services\\FreteCalculadoraPeso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T23:39:06.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FreteCalculadoraDistancia.cs",
+              "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Services\\FreteCalculadoraDistancia.cs",
+              "RelativeDocumentMoniker": "ProjetoPedidos\\Services\\FreteCalculadoraDistancia.cs",
+              "ToolTip": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Services\\FreteCalculadoraDistancia.cs",
+              "RelativeToolTip": "ProjetoPedidos\\Services\\FreteCalculadoraDistancia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T23:39:48.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Models\\Produto.cs",
               "RelativeDocumentMoniker": "ProjetoPedidos\\Models\\Produto.cs",
@@ -221,21 +310,43 @@
               "RelativeToolTip": "ProjetoPedidos\\Models\\Produto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T23:34:59.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T23:34:59.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Models\\Cliente.cs",
-              "RelativeDocumentMoniker": "ProjetoPedidos\\Models\\Cliente.cs",
-              "ToolTip": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Models\\Cliente.cs",
-              "RelativeToolTip": "ProjetoPedidos\\Models\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "RelatorioJSON.cs",
+              "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Relatorios\\RelatorioJSON.cs",
+              "RelativeDocumentMoniker": "ProjetoPedidos\\Relatorios\\RelatorioJSON.cs",
+              "ToolTip": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Relatorios\\RelatorioJSON.cs",
+              "RelativeToolTip": "ProjetoPedidos\\Relatorios\\RelatorioJSON.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwCMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T22:01:19.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T23:42:21.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RelatorioTexto.cs",
+              "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Relatorios\\RelatorioTexto.cs",
+              "RelativeDocumentMoniker": "ProjetoPedidos\\Relatorios\\RelatorioTexto.cs",
+              "ToolTip": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Relatorios\\RelatorioTexto.cs",
+              "RelativeToolTip": "ProjetoPedidos\\Relatorios\\RelatorioTexto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T23:41:54.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\.gitignore",
+              "RelativeDocumentMoniker": "ProjetoPedidos\\.gitignore",
+              "ToolTip": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\.gitignore",
+              "RelativeToolTip": "ProjetoPedidos\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG/SURBVDhPrZRNTgIxFMerDIaEhHgU97JxwUKGGaNeQJdyCY0XUBDWGhg4AB\u002BuvQk7OQCRFTP1fXWmMxUMCT94ee177eu/LVQdFK31kTSJ0WgEIa0SMJ2A6QTHcF9iicQqlYpa/6zv2\u002B2HD5nuEkWR/l4udRzHZBtjGzFor1YrPR6P9WKx0MNhpN96vTuZThyLJ1AJLK/iJFFxjBanBsXIozqkWq2qev1c1Wq19063e0ZBwBNP4JaQ6WRC/i8ajQb5wWBAvnxyghpOqQPkC8L5IEEQKjgxaqOTFsCd65tb6nmlkur1\u002BxwXCgX58KfT7QptwvCK52wrSLcJvtUKOABkQ6HFXwbGsmMRBkchzpjNphLZDSrEn5G1qnsp\u002BPEtheloXouRnXDTTjhb5tXmeyg0IgzuliHp\u002By0OANbiOCDXp1IYo3mMUxBT8/mMA/8QhGH6ZzC4Zwi5ZqoQB9M3h62I/\u002B/SAQpniBmtPvdQyGeYUdgyX8pl05eIBSxmTzQYEYbc42AuJQWLGJNQEcrJG4A4BTHneSW2sqfKOyybkxXMPbAvrx3IsyLzkPJFmUcWYtDntjG6lIvnp8cvKXNIlPoFvstpJRlQPIAAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-06-26T00:35:43.878Z"
             }
           ]
         }

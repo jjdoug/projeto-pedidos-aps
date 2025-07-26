@@ -8,6 +8,7 @@ using ProjetoPedidos.Models;
 using ProjetoPedidos.Services;
 using ProjetoPedidos.Relatorios;
 using ProjetoPedidos.Utils;
+using ProjetoPedidos.Notificacoes;
 
 namespace ProjetoPedidos
 {
@@ -153,21 +154,18 @@ namespace ProjetoPedidos
 
             Console.WriteLine("Tipo de notificação:");
             Console.WriteLine("1 - Email\n2 - SMS\n3 - WhatsApp");
-            int tipoNotif = Entrada.LerInt("Escolha: ");
-            switch (tipoNotif)
+            int tipoNotif = Entrada.LerInt("Opção: ");
+
+                
+            INotificacao notificador = NotificacaoFactory.Criar(tipoNotif);
+
+            if (notificador != null)
             {
-                case 1:
-                    new NotificadorEmail().Enviar(cliente);
-                    break;
-                case 2:
-                    new NotificadorSMS().Enviar(cliente);
-                    break;
-                case 3:
-                    new NotificadorWhatsApp().Enviar(cliente);
-                    break;
-                default:
-                    Console.WriteLine("Tipo de notificação inválido.");
-                    break;
+                notificador.Enviar(cliente);
+            }
+            else
+            {
+                Console.WriteLine("Tipo de notificação inválido.");
             }
 
             pedidos.Add(pedido);

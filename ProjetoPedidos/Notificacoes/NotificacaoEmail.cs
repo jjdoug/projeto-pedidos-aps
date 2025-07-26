@@ -5,13 +5,13 @@ using System.Text;
 using System.Threading.Tasks;
 using ProjetoPedidos.Models;
 
-namespace ProjetoPedidos.Services
+namespace ProjetoPedidos.Notificacoes
 {
-    public class NotificadorEmail
+    public class NotificacaoEmail : INotificacao
     {
         public void Enviar(Cliente cliente)
         {
-            Console.WriteLine($"Enviando e-mail para {cliente.Email}: Seu pedido foi confirmado!");
+            Console.WriteLine($"Enviando e-mail para {cliente.Email}...");
         }
     }
 }
