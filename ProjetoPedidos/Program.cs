@@ -132,25 +132,31 @@ namespace ProjetoPedidos
                 continuar = Entrada.LerString("Adicionar mais produtos? (s/n): ");
             } while (continuar.ToLower() == "s");
 
+            IFreteCalculadora freteCalculadora;
+
             Console.WriteLine("1 - Frete por peso");
             Console.WriteLine("2 - Frete por distância");
             int tipoFrete = Entrada.LerInt("Escolha o tipo de frete: ");
+
             if (tipoFrete == 1)
             {
-                var frete = new FreteCalculadoraPeso();
-                pedido.Frete = frete.Calcular(pedido);
+                freteCalculadora = new FreteCalculadoraPeso();
             }
             else if (tipoFrete == 2)
             {
                 double distancia = Entrada.LerDouble("Informe a distância (km): ");
-                var frete = new FreteCalculadoraDistancia();
-                pedido.Frete = frete.Calcular(distancia);
+                freteCalculadora = new FreteCalculadoraDistancia(distancia);
             }
             else
             {
                 Console.WriteLine("Tipo de frete inválido. Frete definido como zero.");
-                pedido.Frete = 0;
+                freteCalculadora = null;
             }
+
+            if (freteCalculadora != null)
+                pedido.Frete = freteCalculadora.Calcular(pedido);
+            else
+                pedido.Frete = 0;
 
             Console.WriteLine("Tipo de notificação:");
             Console.WriteLine("1 - Email\n2 - SMS\n3 - WhatsApp");

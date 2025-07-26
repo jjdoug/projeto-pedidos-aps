@@ -7,7 +7,7 @@ using ProjetoPedidos.Models;
 
 namespace ProjetoPedidos.Services
 {
-    public class FreteCalculadoraPeso
+    public class FreteCalculadoraPeso : IFreteCalculadora
     {
         public double Calcular(Pedido pedido)
         {

@@ -58,9 +58,7 @@
     <Compile Include="Relatorios\RelatorioTexto.cs" />
     <Compile Include="Services\FreteCalculadoraDistancia.cs" />
     <Compile Include="Services\FreteCalculadoraPeso.cs" />
-    <Compile Include="Services\NotificadorEmail.cs" />
-    <Compile Include="Services\NotificadorSMS.cs" />
-    <Compile Include="Services\NotificadorWhatsapp.cs" />
+    <Compile Include="Services\IFreteCalculadora.cs" />
     <Compile Include="Utils\Entrada.cs" />
   </ItemGroup>
   <ItemGroup>

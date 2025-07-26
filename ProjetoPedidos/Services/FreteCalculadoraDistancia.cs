@@ -3,12 +3,20 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ProjetoPedidos.Models;
 
 namespace ProjetoPedidos.Services
 {
-    public class FreteCalculadoraDistancia
+    public class FreteCalculadoraDistancia : IFreteCalculadora
     {
-        public double Calcular(double distanciaKm)
+        private double distanciaKm;
+
+        public FreteCalculadoraDistancia(double distanciaKm)
+        {
+            this.distanciaKm = distanciaKm;
+        }
+
+        public double Calcular(Pedido pedido)
         {
             return distanciaKm * 0.5;
         }
