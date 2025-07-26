@@ -11,7 +11,7 @@ namespace ProjetoPedidos.Notificacoes
     {
         public void Enviar(Cliente cliente)
         {
-            Console.WriteLine($"Enviando e-mail para {cliente.Telefone}...");
+            Console.WriteLine($"Enviando SMS para {cliente.Telefone}...");
         }
     }
 }

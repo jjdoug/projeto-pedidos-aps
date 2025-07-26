@@ -56,6 +56,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Relatorios\RelatorioJSON.cs" />
     <Compile Include="Relatorios\RelatorioTexto.cs" />
+    <Compile Include="Services\ConfiguracaoNotificacao.cs" />
     <Compile Include="Services\FreteCalculadoraDistancia.cs" />
     <Compile Include="Services\FreteCalculadoraPeso.cs" />
     <Compile Include="Services\IFreteCalculadora.cs" />

@@ -158,11 +158,27 @@ namespace ProjetoPedidos
             else
                 pedido.Frete = 0;
 
-            Console.WriteLine("Tipo de notificação:");
-            Console.WriteLine("1 - Email\n2 - SMS\n3 - WhatsApp");
-            int tipoNotif = Entrada.LerInt("Opção: ");
+            var configNotificacao = ConfiguracaoNotificacao.GetInstancia();
 
-                
+            Console.WriteLine($"Tipo de notificação padrão atual: {configNotificacao.TipoPadrao} (1=Email, 2=SMS, 3=WhatsApp)");
+            Console.WriteLine("Deseja usar o tipo padrão? (s/n)");
+            string usarPadrao = Entrada.LerString("Opção: ").ToLower();
+
+            int tipoNotif;
+
+            if (usarPadrao == "s")
+            {
+                tipoNotif = configNotificacao.TipoPadrao;
+            }
+            else
+            {
+                Console.WriteLine("Escolha o tipo de notificação:");
+                Console.WriteLine("1 - Email\n2 - SMS\n3 - WhatsApp");
+                tipoNotif = Entrada.LerInt("Opção: ");
+
+                configNotificacao.TipoPadrao = tipoNotif;
+            }
+
             INotificacao notificador = NotificacaoFactory.Criar(tipoNotif);
 
             if (notificador != null)

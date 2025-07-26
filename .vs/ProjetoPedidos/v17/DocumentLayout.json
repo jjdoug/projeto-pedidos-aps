@@ -7,15 +7,31 @@
       "RelativeMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|solutionrelative:projetopedidos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|c:\\users\\doug\\source\\repos\\projetopedidos\\projetopedidos\\services\\fretecalculadorapeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|c:\\users\\doug\\source\\repos\\projetopedidos\\projetopedidos\\notificacoes\\notificacaowhatsapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|solutionrelative:projetopedidos\\notificacoes\\notificacaowhatsapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|c:\\users\\doug\\source\\repos\\projetopedidos\\projetopedidos\\notificacoes\\notificacaosms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|solutionrelative:projetopedidos\\notificacoes\\notificacaosms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|c:\\users\\doug\\source\\repos\\projetopedidos\\projetopedidos\\services\\configuracaonotificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|solutionrelative:projetopedidos\\services\\configuracaonotificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|c:\\users\\doug\\source\\repos\\projetopedidos\\projetopedidos\\notificacoes\\notificacaofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|solutionrelative:projetopedidos\\notificacoes\\notificacaofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\projetopedidos\\services\\fretecalculadorapeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|solutionrelative:projetopedidos\\services\\fretecalculadorapeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|c:\\users\\doug\\source\\repos\\projetopedidos\\projetopedidos\\services\\fretecalculadoradistancia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\projetopedidos\\services\\fretecalculadoradistancia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|solutionrelative:projetopedidos\\services\\fretecalculadoradistancia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|c:\\users\\doug\\source\\repos\\projetopedidos\\projetopedidos\\services\\ifretecalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\projetopedidos\\services\\ifretecalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F66B8A24-8F5F-4B97-BA07-69278752D66B}|ProjetoPedidos\\ProjetoPedidos.csproj|solutionrelative:projetopedidos\\services\\ifretecalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -30,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +54,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotificacaoWhatsapp.cs",
+              "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Notificacoes\\NotificacaoWhatsapp.cs",
+              "RelativeDocumentMoniker": "ProjetoPedidos\\Notificacoes\\NotificacaoWhatsapp.cs",
+              "ToolTip": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Notificacoes\\NotificacaoWhatsapp.cs",
+              "RelativeToolTip": "ProjetoPedidos\\Notificacoes\\NotificacaoWhatsapp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T02:57:41.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "NotificacaoSMS.cs",
+              "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Notificacoes\\NotificacaoSMS.cs",
+              "RelativeDocumentMoniker": "ProjetoPedidos\\Notificacoes\\NotificacaoSMS.cs",
+              "ToolTip": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Notificacoes\\NotificacaoSMS.cs",
+              "RelativeToolTip": "ProjetoPedidos\\Notificacoes\\NotificacaoSMS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T02:57:33.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotificacaoFactory.cs",
+              "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Notificacoes\\NotificacaoFactory.cs",
+              "RelativeDocumentMoniker": "ProjetoPedidos\\Notificacoes\\NotificacaoFactory.cs",
+              "ToolTip": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Notificacoes\\NotificacaoFactory.cs",
+              "RelativeToolTip": "ProjetoPedidos\\Notificacoes\\NotificacaoFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T02:52:46.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfiguracaoNotificacao.cs",
+              "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Services\\ConfiguracaoNotificacao.cs",
+              "RelativeDocumentMoniker": "ProjetoPedidos\\Services\\ConfiguracaoNotificacao.cs",
+              "ToolTip": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Services\\ConfiguracaoNotificacao.cs",
+              "RelativeToolTip": "ProjetoPedidos\\Services\\ConfiguracaoNotificacao.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T02:47:18.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "FreteCalculadoraDistancia.cs",
               "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Services\\FreteCalculadoraDistancia.cs",
               "RelativeDocumentMoniker": "ProjetoPedidos\\Services\\FreteCalculadoraDistancia.cs",
@@ -46,12 +114,11 @@
               "RelativeToolTip": "ProjetoPedidos\\Services\\FreteCalculadoraDistancia.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T02:25:40.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T02:25:40.918Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "FreteCalculadoraPeso.cs",
               "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Services\\FreteCalculadoraPeso.cs",
               "RelativeDocumentMoniker": "ProjetoPedidos\\Services\\FreteCalculadoraPeso.cs",
@@ -59,21 +126,7 @@
               "RelativeToolTip": "ProjetoPedidos\\Services\\FreteCalculadoraPeso.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T02:22:26.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IFreteCalculadora.cs",
-              "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Services\\IFreteCalculadora.cs",
-              "RelativeDocumentMoniker": "ProjetoPedidos\\Services\\IFreteCalculadora.cs",
-              "ToolTip": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Services\\IFreteCalculadora.cs",
-              "RelativeToolTip": "ProjetoPedidos\\Services\\IFreteCalculadora.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T02:22:08.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T02:22:26.015Z"
             },
             {
               "$type": "Document",
@@ -83,14 +136,26 @@
               "RelativeDocumentMoniker": "ProjetoPedidos\\Program.cs",
               "ToolTip": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Program.cs",
               "RelativeToolTip": "ProjetoPedidos\\Program.cs",
-              "ViewState": "AgIAALAAAAAAAAAAAAAqwLwAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAqwKQAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-26T01:45:26.755Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
+              "Title": "IFreteCalculadora.cs",
+              "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Services\\IFreteCalculadora.cs",
+              "RelativeDocumentMoniker": "ProjetoPedidos\\Services\\IFreteCalculadora.cs",
+              "ToolTip": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\Services\\IFreteCalculadora.cs",
+              "RelativeToolTip": "ProjetoPedidos\\Services\\IFreteCalculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T02:22:08.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\doug\\source\\repos\\ProjetoPedidos\\ProjetoPedidos\\.gitignore",
               "RelativeDocumentMoniker": "ProjetoPedidos\\.gitignore",

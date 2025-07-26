@@ -17,7 +17,7 @@ namespace ProjetoPedidos.Notificacoes
             else if (tipo == 3)
                 return new NotificacaoWhatsApp();
             else
-                return null; // não lança exceção, apenas retorna null
+                return null;
         }
     }
 }
